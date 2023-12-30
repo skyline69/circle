@@ -24,7 +24,7 @@ fn main() {
 
     let radius = screen_height / 6;
 
-    let points = 7200; // More points for a smoother circle
+    let points = 720000; // More points for a smoother circle
 
     // wait 4 seconds before the action happens
     for i in 0..WAIT_TIME {
